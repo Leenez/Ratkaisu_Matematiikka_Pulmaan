@@ -1,5 +1,7 @@
 /* Matematiikan tehtävän ratkaisu ohjelmoimalla
+
 https://yle.fi/aihe/artikkeli/2015/05/22/8-vuotiaille-suunnattu-matematiikan-tehtava-osoittautui-haastavaksi
+
 Seuraava C++ koodi selvittää edellisessä linkissä kuvatun tehtävän kaikki ratkaisut käymällä läpi kaikki mahdolliset vaihtoehdot 
 Ohjelmaa voi testata helposti esim. avaamalla nettiselaimessa C++ shellin osoitteessa: http://cpp.sh/
 kopioimalla koko tämän koodin tekstikenttään ja käynnistämällä ohjelman */
